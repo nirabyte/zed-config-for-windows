@@ -1,0 +1,9 @@
+[
+  {
+    "label": "go",
+    "command": "go run",
+    "args": ["$ZED_FILE"],
+    "use_new_terminal": false,
+    "allow_concurrent_runs": true
+  }
+]
