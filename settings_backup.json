@@ -49,7 +49,7 @@
   },
   "project_panel": {
     "sticky_scroll": true,
-    "auto_open": { "on_paste": true },
+    "open_file_on_paste": true,
     "hide_hidden": false,
     "hide_root": false,
     "git_status": true,
@@ -63,7 +63,7 @@
     "dock": "bottom"
   },
   "telemetry": {
-    "diagnostics": false,
+    "diagnostics": true,
     "metrics": false
   },
   "icon_theme": {
