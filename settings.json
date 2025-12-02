@@ -1,4 +1,7 @@
 {
+  "edit_predictions": {
+    "mode": "eager"
+  },
   "extend_comment_on_newline": true,
   "ui_font_family": ".ZedSans",
   "buffer_font_family": "JetBrainsMono Nerd Font",
@@ -92,13 +95,6 @@
   },
   "inlay_hints": {
     "enabled": false
-  },
-  "agent": {
-    "default_model": {
-      "provider": "copilot_chat",
-      "model": "gpt-4.1"
-    },
-    "model_parameters": []
   },
   "disable_ai": true,
   "ui_font_size": 16,
