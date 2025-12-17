@@ -4,7 +4,7 @@
   },
   "extend_comment_on_newline": true,
   "ui_font_family": ".ZedSans",
-  "buffer_font_family": "JetBrainsMono Nerd Font",
+  "buffer_font_family": "CaskaydiaMono Nerd Font",
   "vim_mode": false,
   "scrollbar": {
     "git_diff": true
